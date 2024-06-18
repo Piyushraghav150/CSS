@@ -1,0 +1,136 @@
+/* body {
+    background-color: antiquewhite;
+} */
+
+/* #first {
+    background-color: red;
+    color: aqua;
+}
+
+#second {
+    background-color: green;
+    color: white;
+} */
+
+
+/* CSS Selectors */
+
+/* body {
+    background-color: antiquewhite;
+} */
+
+/* h1 {
+    color: rgb(12, 12, 232);
+    background-color: aqua;
+} */
+
+/* #box {
+    color: aquamarine;
+    background-color: brown;
+}
+
+#box1 {
+    color: pink;
+    background-color: blue;
+} */
+
+/* .card {
+    background-color: blueviolet;
+}
+
+.card1 {
+    background-color: greenyellow;
+} */
+
+/* *{
+    margin: 0;
+    padding: 0;
+} */
+
+/* Color and Backgrounds */
+
+/* p {
+    color: aqua;
+    background-color: brown;
+} */
+
+/* body {
+    background-image: url("box20.jpg");
+    background-repeat: repeat-x;
+    background-repeat: repeat-y; 
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-size: contain; 
+    background-size: auto;
+    background-position: right top;
+    background-attachment: fixed;
+} */
+
+/* Height & Width */
+/* #box {
+    background-color: rgb(0, 255, 89);
+    color: rgb(255, 0, 30);
+    height: 100px;
+    width: 100px;
+    
+}
+#box1 {
+    background-color: rgb(255, 0, 0);
+    color: rgb(0, 191, 255);
+    height: 150px;
+    width: 150px;
+    
+} */
+
+/* Margin & Padding */
+/* .first {
+    background-color: aquamarine;
+    color: red;
+    height: 100px;
+    width: 100px;
+    margin: 15px;
+    padding: 15px;
+    border: 2px solid black;
+    border-radius: 5px;
+    box-sizing: border-box;
+    
+       
+}
+
+.second {
+    background-color: rgb(170, 127, 255);
+    color: rgb(23, 29, 24);
+    height: 100px;
+    width: 100px;
+    margin: 35px;
+    padding: 15px;
+    border: 2px solid black;
+    border-radius: 3px;
+    box-sizing: border-box;
+       
+} */
+
+/* Fonts & display */
+/* p {
+    background-color: red;
+    color: aquamarine;
+    display: inline;
+    display: block;
+    display: inline-block;
+    display: none;
+    text-align: center;
+    text-decoration: dashed;
+    text-transform: uppercase;
+    line-height: 2;
+} */
+
+/* p {
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-size: 20px;
+    font-weight: bold;
+    font-style: italic;
+} */
+
+/* Size Position & List */
+
+
